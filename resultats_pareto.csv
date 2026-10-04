@@ -1,0 +1,20 @@
+methode,famille,reglage,taux_octroi,exactitude_merite,exactitude_comite,ecart_egalite_chances,ecart_parite
+Foret de base (production),reference,,0.382,0.908,0.8813,0.3181,0.1876
+Foret sans region ni code postal,reference,,0.3947,0.908,0.8793,0.2554,0.1731
+Neutralisation contrefactuelle,neutralisation,0.0,0.4,0.884,0.886,0.3364,0.2304
+Neutralisation contrefactuelle,neutralisation,0.1,0.4,0.8947,0.884,0.3039,0.2083
+Neutralisation contrefactuelle,neutralisation,0.2,0.4,0.91,0.882,0.2572,0.1766
+Neutralisation contrefactuelle,neutralisation,0.3,0.4,0.9227,0.8793,0.2254,0.1531
+Neutralisation contrefactuelle,neutralisation,0.4,0.4,0.9347,0.8793,0.1923,0.1297
+Neutralisation contrefactuelle,neutralisation,0.5,0.4,0.942,0.8787,0.1699,0.1145
+Neutralisation contrefactuelle,neutralisation,0.6,0.4,0.9533,0.876,0.1354,0.0911
+Neutralisation contrefactuelle,neutralisation,0.7,0.4,0.9633,0.872,0.1083,0.0717
+Neutralisation contrefactuelle,neutralisation,0.8,0.4,0.974,0.8673,0.0758,0.0497
+Neutralisation contrefactuelle,neutralisation,0.9,0.4,0.9887,0.858,0.0346,0.0207
+Neutralisation contrefactuelle,neutralisation,1.0,0.4,0.9993,0.8533,0.002,-0.0014
+ThresholdOptimizer (TPR parity),reference,,0.394,0.9187,0.8793,0.2215,0.1485
+ExponentiatedGradient (TPR parity),exp_gradient,0.2,0.3963,0.8923,0.8863,0.3291,0.2159
+ExponentiatedGradient (TPR parity),exp_gradient,0.1,0.3963,0.8923,0.8863,0.3291,0.2159
+ExponentiatedGradient (TPR parity),exp_gradient,0.05,0.3963,0.8923,0.8863,0.3291,0.2159
+ExponentiatedGradient (TPR parity),exp_gradient,0.02,0.399,0.8983,0.887,0.2992,0.2011
+ExponentiatedGradient (TPR parity),exp_gradient,0.01,0.4003,0.9037,0.8863,0.2789,0.1896
